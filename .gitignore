@@ -1,3 +1,4 @@
 output_file.csv
 transactions_train.csv
 BankTransactions.csv
+__pycache__/

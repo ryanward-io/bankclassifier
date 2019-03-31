@@ -9,7 +9,7 @@ from sklearn.metrics import classification_report, accuracy_score
 
 #VARIABLES
 original_file = "BankTransactions.csv"
-training_file = "transactions_train.csv"
+training_file = "transactions_train_public.csv"
 output_file = "output_file.csv"
 replaceList = [' - Receipt', ' - Visa']
 models = [GaussianNB, MultinomialNB, ComplementNB, BernoulliNB, RandomForestClassifier]
