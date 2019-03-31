@@ -7,8 +7,5 @@ The aim here was to really expand my machine learning skills, but also play arou
 ## Build status
 Still need to commit the relevant CSVs when I've cleaned them of personal information. This makes this not so useful until I do that...
 
-## Installation
-The requirements file seems way too much at the moment (that's Anaconda for you) as it really only uses parts of sckitlearn and pandas, so I'll look to see if setup works fine with just those two when I have time.
-
 Thanks,
 Ryan
