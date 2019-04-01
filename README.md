@@ -5,7 +5,7 @@ This aims to take in any bank data (although it has only been tested with ING ba
 The aim here was to really expand my machine learning skills, but also play around with the class object as I haven't used it much before and this seemed to be a good opportunity.
 
 ## Build status
-Still need to commit the relevant CSVs when I've cleaned them of personal information. This makes this not so useful until I do that...
+Still want to trial different vectorizers and see if I can explore more ML models but I'm pretty happy on where it is at
 
 Thanks,
 Ryan
