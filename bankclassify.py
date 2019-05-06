@@ -155,7 +155,7 @@ def model_heatmap():
 
 def main():
     myModel = Classifier()
-    myModel.self_evaluate()
+    model_heatmap()
 
 if __name__ == '__main__':
     main()
